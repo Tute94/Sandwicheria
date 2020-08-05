@@ -53,6 +53,7 @@ while debug:
 	except:
 		crear_base_predefinida ()
 		
+print ("Hola")
 
 		
 		

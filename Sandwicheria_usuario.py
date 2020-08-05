@@ -55,6 +55,7 @@ while debug:
 		
 
 		
-print ("Hola gente del curso de python agt")		
+
+	
 
 
